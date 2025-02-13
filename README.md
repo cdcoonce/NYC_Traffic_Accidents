@@ -72,4 +72,8 @@
 
 ## **5. Project Files**
 
-- 🔗 **[Download Full Excel Report](Analysis.xlsx)**
+- **[Download Full Excel Report](Analysis.xlsx)**
+
+## **6. Acknowledgments**
+
+This project was completed as part of a guided learning experience with **Maven Analytics**. Special thanks to Maven Analytics for providing structured guidance and high-quality datasets to enhance analytical skills. 
